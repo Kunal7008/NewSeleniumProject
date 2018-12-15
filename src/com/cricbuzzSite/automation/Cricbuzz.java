@@ -25,7 +25,7 @@ public void lauchCricbuzzSite() {
 	}
 }
 public void verifyPage() {
-	
+System.out.println("get my message")	
 }
 
 }
