@@ -9,6 +9,6 @@ public class RunMyMethod {
 public void run() {
 	System.setProperty("webdriver.chrome.driver", "C:\\Users\\KUNAL BHATTA\\Downloads\\chromedriver.exe");
 	WebDriver driver= new ChromeDriver();
-	driver.get("https://jio.com");
+	driver.get("https://flipkart.com");
 }
 }
